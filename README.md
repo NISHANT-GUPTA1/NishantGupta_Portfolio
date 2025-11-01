@@ -19,7 +19,7 @@ If you're an engineering manager or recruiter at a product-driven company (FAANG
 
 ## Live site
 
-- [Portfolio (live)](https://lovable.dev/projects/139221fc-db3c-44a4-8277-260e9d7a6451)
+- [Portfolio (live)](https://nishantguptaportfolio.netlify.app/)
 
 ## Core technologies
 
